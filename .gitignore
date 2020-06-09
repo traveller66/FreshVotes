@@ -1,0 +1,6 @@
+*.cmd
+*.jar
+FreshVotes/.mvn/wrapper/maven-wrapper.properties
+FreshVotes/.mvn/wrapper/maven-wrapper.jar
+FreshVotes/.mvn/wrapper/MavenWrapperDownloader.java
+FreshVotes/mvnw
